@@ -4,6 +4,4 @@ module.exports = {
       // implement node event listeners here
     },
   },
-  experimentalStudio: true
-
 };
